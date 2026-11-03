@@ -11,3 +11,9 @@ else:
 
 def reverse_string(s):
     return s[::-1]
+
+#Q3. How can you find the largest number in a list?
+
+def find_largest (numbers):
+    return max(numbers)
+
